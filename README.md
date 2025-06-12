@@ -1,6 +1,6 @@
 #  Online Shopping System
 
-An advanced, full-featured web-based shopping platform built using **HTML, CSS, PHP**, and **JSON** for data storage. This system mimics a real-world e-commerce platform, allowing users to register, log in, view products, add them to a cart, and manage their orders.
+An advanced, full-featured web-based shopping platform built using **HTML, CSS, PHP**, and  for data storage. This system mimics a real-world e-commerce platform, allowing users to register, log in, view products, add them to a cart, and manage their orders.
 
 Features
 
